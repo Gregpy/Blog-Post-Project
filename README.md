@@ -16,7 +16,11 @@ The results showed no correlations.
 
 ## File Descriptions
 
-The notebook "Write a Data Science Blog Post Project" is the only file used. Comments and markdown cells were used to explain the code. The cells can all be run in a linearly fashion.
+The notebook "Write a Data Science Blog Post Project" is the only file used. Comments and markdown cells were used to explain the code. 
+
+## How to Interact with the Project
+
+The cells can all be run in a linearly fashion. The code could be applied to other features as well. The mean and standard deviation of job security concern ratings were given depending on feature values to look for trends in the data. No trends were visibly apparent. 
 
 ## Licensing and Acnknowledgements
 
